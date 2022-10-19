@@ -2,6 +2,8 @@
 
 Welcome to my github profile!
 
+Today I start the journey to becoming a full-time developer 🚀
+
 <!--
 **alx15/alx15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
