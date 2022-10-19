@@ -4,6 +4,7 @@ Welcome to my github profile!
 A journey to becoming a full-time developer 🚀
 
 Day 1: The first day to becoming a full-time developer 🚀
+To me the logical first step is to learn git as every projects should use version control.
 
 - started with github basics with https://github.com/skills/introduction-to-github
 - continue git with https://www.youtube.com/watch?v=8JJ101D3knE
